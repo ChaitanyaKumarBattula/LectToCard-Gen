@@ -7,7 +7,7 @@ The Gemini Dynamo project integrates both frontend and backend technologies to e
 The project undertakes the complex challenge of analyzing lengthy YouTube transcripts through its Semantic Extraction Algorithm (SEA). Aimed at simplifying the study process for both students and educators, it efficiently identifies and categorizes key concepts and terms found in university lectures and other extensive video materials. DynamoCards revolutionizes digital learning by making it easier to create effective study routines and enhancing classroom instruction. By enabling users to distill hours of lecture content into concise and easily comprehensible summaries, this technology represents a major advancement in educational tools.
 
 ## Demo Video
-
+https://github.com/user-attachments/assets/c1ba5f7d-3336-40d7-b8f8-d23e5a00ca63
 
 ## Features
 
